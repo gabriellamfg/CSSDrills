@@ -1,0 +1,115 @@
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+body {
+background-color: lightgray;
+}
+
+h2, p, .readme-wrapper {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color:mediumpurple;
+    
+}
+
+a:hover {
+    font-weight: bold;
+    color: yellow;
+}
+
+.fw, .sss, .pp, .bb {
+    color: ghostwhite;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+
+.boxes {   
+    margin: 1px;
+    padding: 1px;
+    border-style: solid;
+    border-color: dimgray;
+    border-radius: 25px;
+    width: 30em;
+    display: block;
+}
+
+#box1 {
+    background-color: firebrick;
+    
+}
+
+#box2 {
+    background-color: darkgoldenrod;
+}
+
+#box3 {
+    background-color: darkgreen;
+}
+
+#box4 {
+    background-color: midnightblue;
+}
+
+.imgbox {
+    position: absolute;
+    left: 50px;
+    /* top: 50px; */
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    background-color: gray;
+}
+
+.original {
+    color: green;
+}
+
+.additional {
+    color: hotpink;
+}
+
+#show1 {
+    color:indigo;
+}
+
+#show2 {
+    color: mediumslateblue;
+}
+
+#show3 {
+    color: lavender;
+}
+
+#show4 {
+    color: rgb(127, 62, 143);
+}
+
+#show5 {
+    color: rgb(203, 122, 206);
+}
+
+
+ul {
+    color: royalblue;
+}
+
+.star {
+    color: salmon;
+}
+
+#wars {
+    color: seagreen;
+}
+
+.lists {
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+}
